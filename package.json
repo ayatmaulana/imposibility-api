@@ -1,0 +1,15 @@
+{
+  "name": "imposibility-api",
+  "version": "1.0.0",
+  "description": "A tool sraped from http://impossibility.org/",
+  "main": "index.js",
+  "repository": "https://github.com/ayatmaulana/imposibility-api",
+  "author": "Ayat Maulana",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.4"
+  }
+}
